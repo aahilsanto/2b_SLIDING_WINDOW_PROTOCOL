@@ -1,4 +1,9 @@
+Name: A Ahil Santo
+
+Register Number: 212224040018
+
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+
 ## AIM
 To implement sliding window protocol using python sockets.
 ## ALGORITHM:
